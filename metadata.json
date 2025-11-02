@@ -1,0 +1,5 @@
+{
+  "name": "XLSX Data Viewer and Filter",
+  "description": "An interactive web application to upload, view, and filter data from XLSX files in real-time. The user can upload a spreadsheet and instantly search through the content of a specific column.",
+  "requestFramePermissions": []
+}
